@@ -7,7 +7,7 @@ A minimal boilerplate for creating WebGL sketches using `three.js` and `vite`.
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/webgl-sketch-boilerplate.git
+    git clone https://github.com/whizzbbig/webgl-sketch-boilerplate.git
     cd webgl-sketch-boilerplate
     ```
 
